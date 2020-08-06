@@ -1,0 +1,15 @@
+1. Add API Key inside your AndroidManifest File. at "YOUR_API_KEY" field
+loaction: android > app > src > main
+
+2. Configure your Backend services by adding your network Home Address (IP)
+location: lib > pharmacies > pharmacies_services.dart
+lib > drugs > services.dart
+
+I have made changes to thee files:
+
+Dashboard_one
+pharmacyDisplay
+pharmacies_services
+services
+drugsDisplay
+searchDrug
